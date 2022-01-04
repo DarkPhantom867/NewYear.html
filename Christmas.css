@@ -1,0 +1,62 @@
+body{background-image: url(christmas\ ginger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;}
+.text-container{display: flex;
+    height: 0%;
+    width: 100%;}
+#hed1{text-align: center;
+     font-size: xx-large;
+     color: yellow;}
+#hed2{color: yellow;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: x-large;}
+#div1{width: 70%;
+    background-blend-mode: soft-light;
+    color: rgb(88, 214, 214);
+    font-size: large;
+}
+#div2{width: 30%;
+    background-image: url(pixabay_church-christmas_1200.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;}
+
+.text-container{display: flex;
+     height: 0%;
+    width: 100%;}
+
+#hed3{color: yellow;
+         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         font-size: x-large;}
+#div3{width: 70%;
+       background-blend-mode: soft-light;
+       color: rgb(88, 214, 214);
+       font-size: large;}
+#div4{width: 30%;
+    background-image: url(Birth\ of\ jesus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;}
+
+.text-container{display: flex;
+        height: 0%;
+       width: 100%;}
+       #hed4{color: yellow;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: x-large;}
+#div5{width: 70%;
+      background-blend-mode: soft-light;
+      color: rgb(88, 214, 214);
+      font-size: large;}
+   #div6{width: 30%;
+       background-image: url(Christmas\ tree.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin-bottom: 10px;}
+nav{background-color: rgb(228, 211, 57);}
+nav li{list-style: none;
+        display: inline-block;
+        padding: 10px;}
+
+
+a:hover{color: orangered;}
